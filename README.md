@@ -11,12 +11,6 @@ I'm interested in how people interact with technology, and how thoughtful softwa
 ## Learning
 Gaokao · Swift · SwiftUI · Python · HCI · Interaction Design · AI Systems
 
-## Contact
-### Email
-suyutao2009@outlook.com
-### Social Accounts
-[rednote](https://www.xiaohongshu.com/user/profile/663101400000000007007439)   [bilibili](https://space.bilibili.com/1342861348)   [𝕏](https://x.com/suyutao)
-
 ---
 > Building software is interesting.
 >
