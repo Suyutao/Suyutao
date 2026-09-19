@@ -1,4 +1,4 @@
-# Hi, I'm 宇韬 👋
+# Hi, I'm Yutao 👋
 17yo high school student from China, exploring HCI & app development and the intersection of AI, software, and interaction.
 
 
