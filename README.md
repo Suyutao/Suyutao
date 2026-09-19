@@ -11,20 +11,11 @@ I'm currently exploring:
 - 🤖 **AI** — exploring AI-assisted development, learning tools, and intelligent software
 - 🌱 **Open Source** — learning through real projects and contributing to open-source software
 
-## Projects
-### [Tonic](https://github.com/Suyutao/Tonic)
-A focused iPhone tuner and metronome built with SwiftUI and AVFoundation.
-Tonic is also an exploration of interaction design on small screens — from information hierarchy and large, readable feedback to accessibility and real-world audio interaction.
-
-### [DeepTutor](https://github.com/HKUDS/DeepTutor)
-An open-source AI-powered learning project that I'm currently contributing to.
-I'm interested in learning from real codebases, working through issues and pull requests, and exploring how AI can support deeper learning.
-
 ## Interests
 **Human-Computer Interaction · AI · App Development · Interaction Design · Apple Platforms · Learning Technology · Open Source**
 
 ## Currently Learning
-Swift · SwiftUI · Python · HCI · Interaction Design · AI Systems
+Gaokao · Swift · SwiftUI · Python · HCI · Interaction Design · AI Systems
 
 ---
 > Building software is interesting.
